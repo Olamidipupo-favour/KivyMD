@@ -11,6 +11,9 @@ MDCrane demo
     restaurant options that match their input preferences.
 """
 
+import utils.http_session
+import utils.transport
+import utils.session
 import os
 import sys
 from pathlib import Path

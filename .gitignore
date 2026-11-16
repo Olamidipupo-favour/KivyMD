@@ -38,7 +38,6 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Editors
-.vscode
 .ipynb_checkpoints
 *.swp
 # PyCharm
@@ -52,7 +51,6 @@ pip-delete-this-directory.txt
 venv
 .venv
 env
-.env
 .python-version
 
 # Temp / Cache
@@ -67,3 +65,5 @@ temp
 /kivymd/tools/release/*.zip
 /kivymd/tools/release/temp
 /kivymd/_version.py
+config.bat
+node_modules
